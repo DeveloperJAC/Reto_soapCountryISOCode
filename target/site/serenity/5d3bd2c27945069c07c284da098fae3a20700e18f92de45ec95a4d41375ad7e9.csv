@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Codigo ISO de paises","Nombre del codigo ISO de un Pais de forma correcta","SUCCESS","2021-10-24T16:34:02.3325204-05:00[America/Bogota]","0.0","4.61"
+"Codigo ISO de paises","Nombre del codigo ISO de un Pais de forma incorrecta","SUCCESS","2021-10-24T16:34:06.9530123-05:00[America/Bogota]","0.0","0.46"
+"Codigo ISO de paises","Encontrar codigo ISO de un Pais","SUCCESS","2021-10-24T15:38:52.3763642-05:00[America/Bogota]","0.0","5.02"

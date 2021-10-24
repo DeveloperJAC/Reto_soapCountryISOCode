@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Codigo ISO de paises" skipped="0" tests="2" time="0.37" timestamp="2021-10-24 04:04:20"><testcase name="El usuario quiere encontrar el codigo ISO de un Pais"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.sofka.stepdefinitions.soap.countryisocode.country.CountryIsoCodeCucumberStepDefinition.elUsuarioPuedaEjecutaLaAccionInvocar(CountryIsoCodeCucumberStepDefinition.java:31)&#13;
+✽.el usuario pueda ejecuta la accion invocar(file:///C:/Users/Usuario/IdeaProjects/automatin/soapservices/src/test/resources/features/countryisocode/countryisocode.feature:7)&#13;
+</system-err></testcase><testcase name="El usuario quiere encontrar el codigo ISO de un Pais y lo hace de forma incorrecta"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.sofka.stepdefinitions.soap.countryisocode.country.CountryIsoCodeCucumberStepDefinition.elUsuarioPuedaEjecutaLaAccionInvocar(CountryIsoCodeCucumberStepDefinition.java:31)&#13;
+✽.el usuario pueda ejecuta la accion invocar(file:///C:/Users/Usuario/IdeaProjects/automatin/soapservices/src/test/resources/features/countryisocode/countryisocode.feature:7)&#13;
+</system-err></testcase></testsuite>
